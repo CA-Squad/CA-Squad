@@ -13,3 +13,5 @@ CAKE stands for Chain Abstraction Key Elements and it introduces a three-layer t
 - [A decentralised solver architecture for executing intents on EVM blockchain - Rishotics](https://ethresear.ch/t/a-decentralised-solver-architecture-for-executing-intents-on-evm-blockchain/16608)
 
 - [MagicSpend++ Spend Now, Debit Later](https://ethresear.ch/t/magicspend-spend-now-debit-later/19678/12)
+
+- [EIP-7377: Migration Transaction Allow EOAs to send a one-time transaction which deploys code at their account](https://eips.ethereum.org/EIPS/eip-7377)
