@@ -11,3 +11,5 @@ CAKE stands for Chain Abstraction Key Elements and it introduces a three-layer t
 - [Order flow, auctions and centralisation I: a warning - Flashbots](https://collective.flashbots.net/t/order-flow-auctions-and-centralisation-i-a-warning/258)
 
 - [A decentralised solver architecture for executing intents on EVM blockchain - Rishotics](https://ethresear.ch/t/a-decentralised-solver-architecture-for-executing-intents-on-evm-blockchain/16608)
+
+- [MagicSpend++ Spend Now, Debit Later](https://ethresear.ch/t/magicspend-spend-now-debit-later/19678/12)
