@@ -15,3 +15,5 @@ CAKE stands for Chain Abstraction Key Elements and it introduces a three-layer t
 - [MagicSpend++ Spend Now, Debit Later](https://ethresear.ch/t/magicspend-spend-now-debit-later/19678/12)
 
 - [EIP-7377: Migration Transaction Allow EOAs to send a one-time transaction which deploys code at their account](https://eips.ethereum.org/EIPS/eip-7377)
+
+- [How simple choices lead down the complex path to ERC-4337 - Alchemy](https://www.alchemy.com/blog/account-abstraction)
