@@ -19,3 +19,5 @@ CAKE stands for Chain Abstraction Key Elements and it introduces a three-layer t
 - [How simple choices lead down the complex path to ERC-4337 - Alchemy](https://www.alchemy.com/blog/account-abstraction)
 
 - [An analysis on intent-based markets](https://arxiv.org/pdf/2403.02525)
+
+- [State of research: increasing censorship resistance of transactions under proposer/builder separation (PBS)](https://notes.ethereum.org/s3JToeApTx6CKLJt8AbhFQ#Hybrid-PBS-can-we-use-proposers-only-for-inclusion-of-last-resort)
